@@ -58,3 +58,7 @@ Remember: Your path should be between the quotation marks!
 Also: **Do not** move the LambExtract.bat script to another folder without moving the `vgmstream-win` folder alongside it. Again, the script needs that. 
 
 If you really want to have the script in a folder, just make a shortcut for it. (Though I don't see why you would.)
+
+## Credits
+
+This project uses [VGMStream](https://github.com/vgmstream/vgmstream) to extract sounds from the FMOD soundbanks. VGMStream's license can be found [here](https://github.com/vgmstream/vgmstream/blob/master/COPYING).

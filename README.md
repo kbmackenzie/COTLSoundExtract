@@ -22,11 +22,13 @@ You can quickly extract all the sounds at once with the LambExtract.bat script, 
 
 All you have to do to use the script is:
 
-1. Download the release package.
+1. Download the [release package](https://github.com/KBMackenzie/COTLSoundExtract/releases/tag/v1.0.0).
 2. Extract **"COTLSoundExtract.zip"** to its own folder.
 3. Run the **LambExtract.bat** script. Double-clicking on it should be enough.
 
 And that's about it. All of the .wav files will be exported to a folder called "output" in the same directory as the script.
+
+A small note: Extracting all of the sounds can take a few minutes. Be patient!
 
 A few important notes about the script:
 1. My script **intentionally skips over music files**. This is done out of respect to the developers, as the game's music is currently purchasable on Steam.
@@ -53,7 +55,7 @@ Remember: Your path should be between the quotation marks!
 
 **Q:** *"I got an error that says the VGMStream folder couldn't be found!"*
 
-**A:** Please be sure you downloaded the proper package. The **COTLSoundExtract.zip** file should contain not only the LambExtract.bat script but also the `vgmstream-win` folder, which the script needs.
+**A:** Please be sure you downloaded the [proper package](https://github.com/KBMackenzie/COTLSoundExtract/releases/tag/v1.0.0). The **COTLSoundExtract.zip** file should contain not only the LambExtract.bat script, but also the `vgmstream-win` folder, which the script needs.
 
 Also: **Do not** move the LambExtract.bat script to another folder without moving the `vgmstream-win` folder alongside it. Again, the script needs that. 
 

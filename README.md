@@ -4,7 +4,7 @@ A guide on how to extract sound effects from Cult of the Lamb's FMOD soundbanks,
 
 Cult of the Lamb uses FMOD for all of its music and sound effects. FMOD .fsb/.bank files are normally encrypted, but there are a few tools dedicated to to extracting sounds from them.
 
-If you want to skip to the instructions on how to use the LambExtract.bat script to extract all sounds, [click here](#the-script)!
+If you want to skip to the instructions on how to use the **LambExtract.bat** script to extract all sounds, [click here](#the-script)!
 
 ## About .Bank Files
 All of Cult of the Lamb's sounds are stored in FMOD .bank files. Those are all encrypted.
@@ -23,8 +23,8 @@ You can quickly extract all the sounds at once with the LambExtract.bat script, 
 All you have to do to use the script is:
 
 1. Download the release package.
-2. Extract "COTLSoundExtract.zip" to its own folder.
-3. Run the LambExtract.bat script. Double-clicking on it should be enough.
+2. Extract **"COTLSoundExtract.zip"** to its own folder.
+3. Run the **LambExtract.bat** script. Double-clicking on it should be enough.
 
 And that's about it. All of the .wav files will be exported to a folder called "output" in the same directory as the script.
 

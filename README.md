@@ -15,7 +15,7 @@ Fortunately, [VGMStream](https://github.com/vgmstream/vgmstream) seems to work f
 
 Because of this, I wrote a little Batch script that does all the work for you, extracting all the SFX from Cult of the Lamb's FMOD soundbanks separately as .wav files! Guidance on how to use the script (and a FAQ) are going to be below this.
 
-Another alternative you have is to use [VGMstream's Foobar2000 component](https://github.com/vgmstream/vgmstream/blob/master/doc/USAGE.md#foo_input_vgmstream-foobar2000-plugin). You will have to download [Foobar2000](https://www.foobar2000.org/) and follow the instructions on how to install the VGMSstream component for it, however. Though it isn't too hard!
+Another alternative you have is to use [VGMstream's Foobar2000 component](https://github.com/vgmstream/vgmstream/blob/master/doc/USAGE.md#foo_input_vgmstream-foobar2000-plugin). You will have to download [Foobar2000](https://www.foobar2000.org/) and follow the instructions on how to install the VGMSstream component for it, however. Though it isn't hard!
 
 ## The Script
 You can quickly extract all the sounds at once with the LambExtract.bat script, provided you're on Windows and you have Cult of the Lamb installed through Steam (though a non-Steam workaround is provided in the [FAQ](#FAQ)).
